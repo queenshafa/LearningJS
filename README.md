@@ -1,19 +1,24 @@
-JavaScript I (soon..😴😋)
+mark 😋 if u done.
+<h1>Basic JS</h1>
+Pengenalan (done..😋)
 <br>
 <br>
-JavaScript II (soon..😴)
+Variabel dan tipe data (soon..)
 <br>
 <br>
-JavaScript III (soon..😴)
+Operator Aritmatik (soon..)
 <br>
 <br>
-JavaScript 4 (soon..😴)
+Perulangan (soon..)
 <br>
 <br>
-JavaScript 5 (soon..😴)
+Pengkondisian (soon..)
 <br>
 <br>
-JavaScript 6 (soon..😴)
+Fungsi (soon..)
 <br>
 <br>
-JavaScript 7 (soon..😴)
+Konsep Array (soon..)
+<br>
+<br>
+Konsep Objek (soon..)
